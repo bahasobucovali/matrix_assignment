@@ -101,3 +101,4 @@ Matrix Matrix::transpose() {
 	Matrix transposedMatrix(colN, rowN, tempData);
 	return transposedMatrix;
 }
+
