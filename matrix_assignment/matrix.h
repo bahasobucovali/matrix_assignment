@@ -57,7 +57,7 @@ private:
     //m1(0,0) is on the first row,first col 
     int rowN, colN;
     float* data;
-    // e.g: if pointer data points an array of [ 1, 2, 3, 4, 5, 6] and the rowN=3 and coln=2
+    // e.g: if pointer data points an array of [ 1, 2, 3, 4, 5, 6] and the rowN=2 and coln=3
     // matrix is actually 
     // 1 2 3
     // 4 5 6
